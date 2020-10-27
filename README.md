@@ -28,7 +28,7 @@ Python| 0.33 | 1.21 |9.78
 C     |   -  |  0.005  |   0.22    | 
 
 
-Results showed that it is possible to achieve real time execution for both implementations, but not for every timestep. Due to the anatomy of the new algorithm, it is possible to achieve the same level of accuracy, regardless of the time step, which is not a characteristic of classical integration methods in which the integration step correlates with accuracy
+Results showed that it is possible to achieve real time execution for both implementations, but not for every timestep. **Due to the anatomy of the new algorithm, it is possible to achieve the same level of accuracy, regardless of the time step,** which is not a characteristic of classical integration methods in which the integration step correlates with accuracy
 
 ## Project status
 No longer developed. 
